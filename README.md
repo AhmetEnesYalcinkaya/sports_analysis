@@ -1,8 +1,5 @@
 # ⚽  Football Players Tracking with YOLOv5 + ByteTrack
 
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=QCG8QMhga9k)
-[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)](https://blog.roboflow.com/track-football-players/)
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb)
 
 I have long been fascinated by the use of Computer Vision in sports. After all, it is a combination of two things I love. Almost three years ago, I wrote a post on my personal blog in which I tried — at that time, still using YOLOv3 — to [detect and classify basketball players on the court](https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d).
 
